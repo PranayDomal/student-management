@@ -112,7 +112,7 @@ https://localhost:{port}/swagger
 
 ---
 
-## 🔑 API Endpoints
+## API Endpoints
 
 ### Auth
 
@@ -127,7 +127,7 @@ https://localhost:{port}/swagger
 
 ---
 
-## 🔐 Authorization Usage
+## Authorization Usage
 
 1. Login using `/api/Auth/login`
 2. Copy the token
@@ -140,7 +140,7 @@ Bearer YOUR_TOKEN
 
 ---
 
-## 📄 Notes
+## Notes
 
 * All student operations require authentication
 * SQL queries are parameterized to prevent SQL injection
@@ -148,7 +148,7 @@ Bearer YOUR_TOKEN
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any queries or clarification, feel free to reach out.
 
