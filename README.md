@@ -86,7 +86,7 @@ Update `appsettings.json`:
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "your_connection_string"
+  "DbConnection": "your_connection_string"
 },
 "Jwt": {
   "Key": "your_secret_key",
